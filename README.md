@@ -1,5 +1,5 @@
 # Feedback
-[![Stories in Ready](https://badge.waffle.io/Inovativ/Feedback.png?label=ready&title=Ready)](http://waffle.io/Inovativ/Feedback)
+[![Stories in Ready](https://badge.waffle.io/Inovativ/Feedback.png?label=ready&title=Ready)](http://waffle.io/Inovativ/Feedback)  
 Issue and Feedback Tracker for the solutions maintained by Inovativ
 
 
